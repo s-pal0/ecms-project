@@ -13,15 +13,15 @@ This project follows production-level layered architecture and demonstrates best
 
 
 📌 Tech Stack
-✅ Layer	     Technology
-✅ Language	     Java 21
-✅ Framework	 Spring Boot
-✅ ORM	         Spring Data JPA (Hibernate)
-✅ Database	     PostgreSQL
+✅ Layer	      Technology
+✅ Language	   Java 21
+✅ Framework	  Spring Boot 3.5
+✅ ORM	        Spring Data JPA (Hibernate)
+✅ Database	   PostgreSQL
 ✅ Build Tool	 Maven
 ✅ Validation	 Jakarta Bean Validation
-✅ Logging	     SLF4J + Logback
-✅ API Style	 REST
+✅ Logging	    SLF4J + Logback
+✅ API Style	  REST
 
 
 📌 Project Structure
